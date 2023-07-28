@@ -8,7 +8,7 @@ Olá! Eu sou o Fabio Gustavo, um desenvolvedor Fullstack apaixonado por tecnolog
 
 Como desenvolvedor, meu objetivo é construir produtos digitais de alta qualidade que proporcionem experiências excepcionais aos usuários. Tenho uma especialização em desenvolvimento Fullstack, com um forte domínio em Flutter, React.js e Node.js.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-gustavo/) [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11983875629)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-gustavo/) [![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511983875629)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio-GST&show_icons=true&theme=radical)
 
